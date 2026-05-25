@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 function createBot() {
 
 const bot = mineflayer.createBot({
-  host: 'IP_СЕРВЕРА',
+  host: 'cubenova.enderman.cloud',
   port: 25565,
   username: 'AFK_Bot'
 })
